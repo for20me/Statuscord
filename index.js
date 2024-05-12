@@ -1,5 +1,5 @@
 const
-  CLIENT_ID = "Add your client id here",
+  CLIENT_ID = "1101788452904771605",
   
   express = require("express"),
   chalk = require("chalk"),
